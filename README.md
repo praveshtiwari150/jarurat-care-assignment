@@ -5,6 +5,7 @@
 ## Setup:
 
 - Run `npm install` to install the packages.
+- Create a `.env` file and make the environment variables as demonstrated in `.env.example` file
 - Run `npm run start` to start the project.
 - Run `npm run dev` to run using `Nodemon`.
 
