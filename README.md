@@ -1,6 +1,6 @@
 ## Introduction
 
-This is the  code repository jarurat cares assignment.
+ This is a simple API built using Node.js and Express to manage a list of healthcare services.
 
 ## Setup:
 
